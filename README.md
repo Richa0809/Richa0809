@@ -10,16 +10,13 @@
 
 ###
 
-<p align="left">🚀 What I Do:<br>🌐 Frontend & Backend Development<br>🛠️ Building full-stack web apps<br>🎨 Designing responsive UIs<br>📊 Data analysis & visualization<br><br>💼 Tech Stack:<br>💻 HTML | CSS | JavaScript <br>🐍 Python <br><br>🗄️   MySQL<br><br>🔧 Git | GitHub | VS Code<br><br>🌱 Currently Learning:<br>☁️ Cloud Computing & DevOps basics<br><br>🤝 Let’s Connect!<br>I’m always open to collaborating on interesting projects or just chatting about tech.<br>Let’s build something amazing together! ✨</p>
+<p align="left">🚀 What I Do:<br>🌐  Backend Development<br>🛠️ Building web apps<br>🎨 Designing responsive UIs<br>📊 Data analysis & visualization<br><br>💼 Tech Stack:<br>💻 C++ I C <br>🐍 Python <br><br>🗄️   MySQL<br><br>🔧 Git | GitHub | VS Code<br><br>🌱 Currently Learning:<br>☁️ Cloud Computing & DevOps basics<br><br>🤝 Let’s Connect!<br>I’m always open to collaborating on interesting projects or just chatting about tech.<br>Let’s build something amazing together! ✨</p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/richa-jha-6b5579352/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sakshi._08005/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
@@ -40,8 +37,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -54,11 +49,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -72,6 +67,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richa0809/Richa0809/output/pacman-contribution-graph-dark.svg">
